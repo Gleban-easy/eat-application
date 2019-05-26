@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "wfm@mail.ru",
+      "password": "12345678",
+      "name": "Администратор"
+    },
+    {
+      "id": 2,
+      "email": "wfm2@mail.ru",
+      "password": "12345678",
+      "name": "Администратор"
+    },
+    {
+      "email": "qwe@mail.ru",
+      "password": "123123",
+      "name": "qwe123",
+      "id": 3
+    },
+    {
+      "email": "qweqwe@mail.ru",
+      "password": "qweqwe",
+      "name": "qwerty",
+      "id": 4
+    }
+  ]
+}
